@@ -54,3 +54,5 @@ yarn add style-loader css-loader -D
 
  /*Criando um projeto react já template*/ 
  yarn create react-app nomeProjeto --template typescript
+
+ /* Instalando o Styled Components */
