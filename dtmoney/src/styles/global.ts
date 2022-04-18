@@ -12,7 +12,7 @@ export const GlobalStyle = createGlobalStyle`
         --text-title: #363F5F;
         --text-body: #969CB3;
 
-        --background: #F0F2F5;
+       
         --shape: #FFFFFF;
     }
     * {
@@ -32,7 +32,7 @@ export const GlobalStyle = createGlobalStyle`
     }
 
     body {
-        background: var(--brackground);
+        background: var(--background);
         -webkit-font-smoothing: antialiased;
     }
 
