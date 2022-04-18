@@ -27,6 +27,15 @@ yarn add @babel/preset-react -D
 /* PAra instalar o webpack versão desenvolvimento*/ 
 yarn add webpack webpack-cli -D
 
+/* Instalar Axios*/
+yarn add axios
+
+/* Instalar o React Modal */ 
+yarn add react-modal
+yarn add @types/react-modal -D
+
+/* Instalar polished (Helpers de cores)*/
+
 /* Instalar Babel loader que é a integração entre o babel e o webapack*/
 yarn add babel-loader -D
 
@@ -56,3 +65,10 @@ yarn add style-loader css-loader -D
  yarn create react-app nomeProjeto --template typescript
 
  /* Instalando o Styled Components */
+ yarn add styled-components
+
+ /* Adicionar as tipagens do styled components*/
+ yarn add @types/styled-components -D
+
+ /* Instalar fake api mirage js*/
+ yarn add miragejs
