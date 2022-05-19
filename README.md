@@ -28,3 +28,6 @@ Repósitório utilizado para armazenar os conteúdos do curso de especializaçã
 #### Chapter V - PErformando Apps com RactJS  e Testes Unitários
 #### Chapter VI - Estratégias de deploy no React Js
 
+### Conteúdos Adicionais
+- Redux
+

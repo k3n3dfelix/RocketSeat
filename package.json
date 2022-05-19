@@ -5,6 +5,8 @@
     "react-refresh": "^0.11.0"
   },
   "dependencies": {
+    "react-redux": "^8.0.1",
+    "redux": "^4.2.0",
     "styled-components": "^5.3.5"
   }
 }
