@@ -73,3 +73,6 @@ yarn add style-loader css-loader -D
 
  /* Instalar fake api mirage js*/
  yarn add miragejs
+
+ /*Adicionar typescript react com redux */
+ yarn add @types/react-redux -D
