@@ -76,3 +76,9 @@ yarn add style-loader css-loader -D
 
  /*Adicionar typescript react com redux */
  yarn add @types/react-redux -D
+
+ /*Adicionar dependencia do Json server */
+ yarn add json-server -D
+
+ /* Adcionar Axios  */
+ yarn add axios
