@@ -82,3 +82,5 @@ yarn add style-loader css-loader -D
 
  /* Adcionar Axios  */
  yarn add axios
+
+ /* Adicionr biblioteca Immer evitar verbosidade para fazer alterações de estado */

@@ -9,7 +9,7 @@ function App() {
   return (
     <Provider store={store}>
       <Catalog/>
-      <Cart></Cart>
+      <Cart/>
     </Provider>
   );
 }
