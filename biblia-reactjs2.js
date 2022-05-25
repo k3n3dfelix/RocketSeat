@@ -84,3 +84,7 @@ yarn add style-loader css-loader -D
  yarn add axios
 
  /* Adicionr biblioteca Immer evitar verbosidade para fazer alterações de estado */
+ yarn add immer
+
+ /*Adicionar devtools para redux  */
+ yarn add redux-devtools-extension
