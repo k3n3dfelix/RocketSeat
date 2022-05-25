@@ -1,4 +1,4 @@
-# Dt Money - Projeto para controle financeiro - Em Desenvolvimento
+# Dt Money - Projeto para controle financeiro 
 Projeto desenvolvido na trilha especialização em React na plataforma RocketSeat
 
 ## Screens Parciais
