@@ -10,7 +10,7 @@ export function Summary () {
 
     //const data = useContext(TransactionsContext);
 
-    const transactions = useContext(TransactionsContext);
+    const {transactions} = useContext(TransactionsContext);
     console.log(transactions);
     return (
         //Usando API Antiga React Render Props
