@@ -28,7 +28,7 @@ Repósitório utilizado para armazenar os conteúdos do curso de especializaçã
 - Fundamentos NextJS
 - Conceitos SSR e SSG
 - Projeto Prático desenvolvido: Ig News - Projeto com finalidade de assinatura de conteudos digitais escritos.
-- 
+
 #### Chapter IV - Construindo Interfaces do Futuro, Data Fetching e Cache Local, Autenticação e Autorização
 #### Chapter V - PErformando Apps com RactJS  e Testes Unitários
 #### Chapter VI - Estratégias de deploy no React Js
